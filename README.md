@@ -1,8 +1,3 @@
-# menuCoffe
-
-
-
-
 <h1 align="center">🏦 Menu Coffe<h1>
 <p align="center">
 </p>
@@ -20,6 +15,7 @@ Treinando habilidades principalmente de Grid, FlexBox e automaticamente responsi
 # 🖥️ Visualização
 
 <p align="center">
+https://joaoduar7e.github.io/menuCoffe/
 </p>
 
 
