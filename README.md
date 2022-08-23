@@ -1,4 +1,4 @@
-<h1 align="center">🏦 Menu Coffe<h1>
+<h1 align="center">📃 Menu Coffe<h1>
 <p align="center">
 </p>
 
